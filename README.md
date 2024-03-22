@@ -1,6 +1,9 @@
 Team Name:Binary Coders
+
 Team Code:CN085
+
 Problem Code:WD201
+
 Problem Statement:In today's digital age, local artisans often struggle to reach a 
         wider audience for their unique handmade products. Your task is
         to develop a full-stack web application that serves as an online
